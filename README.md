@@ -6,3 +6,7 @@ I made this to facilitate the illusttration of some isometric buildings that I'm
 It is very much a work in progress. There are some features that I want to implement like a 3-view to isometric. which would help people struggling with visualizing 3d objects in engineering drawing/drafting courses. Also I need to add circles/elipses as well as a UI and erase functionality.
 
 https://editor.p5js.org/BarryFiskerman/present/nPlEFjc0B
+Press 'g' to toggle grid on/off
+Press 'c' to transform to cartesian coordinates 
+Press 'i' to transform to isometric coordinates
+
